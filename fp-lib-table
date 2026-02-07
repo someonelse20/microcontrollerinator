@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "microcontrollerinator")(type "KiCad")(uri "/home/william/Documents/microcontrollerinator.pretty")(options "")(descr ""))
+)

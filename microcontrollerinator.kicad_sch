@@ -6812,7 +6812,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 105.41) (xy 266.7 105.41)
+			(xy 254 105.41) (xy 273.05 105.41)
 		)
 		(stroke
 			(width 0)
@@ -14137,7 +14137,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 266.7 105.41 0)
+		(at 273.05 105.41 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14145,7 +14145,7 @@
 		(dnp no)
 		(uuid "f3ff0b09-6cd0-4da3-a46b-8ebc26da08c6")
 		(property "Reference" "#PWR025"
-			(at 266.7 109.22 0)
+			(at 273.05 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14154,7 +14154,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 266.7 101.854 0)
+			(at 273.05 101.854 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14162,7 +14162,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 266.7 105.41 0)
+			(at 273.05 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14171,7 +14171,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 266.7 105.41 0)
+			(at 273.05 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14180,7 +14180,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 266.7 105.41 0)
+			(at 273.05 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)

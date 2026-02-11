@@ -1,3 +1,5 @@
+![alt text](microcontrollerinator-3d.jpg)
+
 # Microcontrollerinator
 Simple custom devboard based on the RP2040 with an integraded 1 cell li-ion charger.
 This is my first complex pcb and to get my feet wet I mostly followed the example at https://blueprint.hackclub.com/starter-projects/devboard and added the BQ21040DBV battery charger. 

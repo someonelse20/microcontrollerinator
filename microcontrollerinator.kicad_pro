@@ -510,7 +510,7 @@
       "plot": "production/microcontrollerinator/",
       "pos_files": "production/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "production/microcontrollerinator.step",
       "svg": "",
       "vrml": ""
     },

@@ -1,6 +1,10 @@
+cmake_minimum_requred(VERSION 3.13)
 add_executable(batteryMonitor
         batteryMonitor.c
         )
+
+include(pico_sdk_import.cmake)
+pico_sdk_init()
 
 target_link_libraries(batteryMonitor pico_stdlib hardware_adc)
 

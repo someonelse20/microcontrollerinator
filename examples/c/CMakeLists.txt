@@ -12,14 +12,14 @@ pico_sdk_init()
 # rest of your project
 
 add_executable(batteryMonitor
-		batteryDrain.c
+		batteryMonitor.c
         )
 
 # Add pico_stdlib library which aggregates commonly used features
 target_link_libraries(batteryMonitor pico_stdlib hardware_adc)
 
-pico_enable_stdio_usb(batteryMonitor 1)
-pico_enable_stdio_uart(batteryMonitor 0)
+# pico_enable_stdio_usb(batteryMonitor 1)
+# pico_enable_stdio_uart(batteryMonitor 0)
 
 # create map/bin/hex/uf2 file in addition to ELF.
 pico_add_extra_outputs(batteryMonitor)
